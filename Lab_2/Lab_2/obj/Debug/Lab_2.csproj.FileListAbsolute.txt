@@ -1,0 +1,11 @@
+F:\My programms\.net\POMRS\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+F:\My programms\.net\POMRS\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+F:\My programms\.net\POMRS\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+F:\My programms\.net\POMRS\Lab_2\Lab_2\obj\Debug\Lab_2.About.resources
